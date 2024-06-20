@@ -1,2 +1,6 @@
 # simple-example-prototype
-Simple prototype that helps as reference to develop new solutions 
+Simple example to create a prototype
+
+pip install pydicom numpy opencv-python simpleitk pyinstaller
+
+pyinstaller main.py
